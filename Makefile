@@ -59,7 +59,7 @@ $(NAME): $(OBJ)
 	$(CC) $(FLAGS) $(OBJ) -L libs/minilibx_mms_20200219 -lmlx -framework OpenGL -framework AppKit -o $@
 
 %.o: %.c
-	$(CC) $(CFLAGS) -c $< -o $@ -MMD
+	$(CC) $(FLAGS) -c $< -o $@ -MMD
 
 bonus: $(NAME_BONUS)
 
