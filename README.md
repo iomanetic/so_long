@@ -16,7 +16,7 @@
   - Ось X и Y размеры карты не должны совподать(карта не должна быть квадртаная).
 
 ## Ссылки на ресурсы
-  [MinilibX Documentaion](https://harm-smits.github.io/42docs/libs/minilibx)
+  [MinilibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx)
 
 ## Этапы запуска
   + ```make```
