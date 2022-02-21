@@ -28,11 +28,11 @@
 
 # ifndef PATH_IMAGES
 #  define PATH_IMAGES
-#  define WALL "../images/wall.xpm"
-#  define FLOOR "../images/floor.xpm"
-#  define COLLECT "../images/collect.xpm"
-#  define PLAYER "../images/player.xpm"
-#  define EXIT "../images/exit.xpm"
+#  define WALL "/images/wall.xpm"
+#  define FLOOR "/images/floor.xpm"
+#  define COLLECT "/images/collect.xpm"
+#  define PLAYER "/images/player.xpm"
+#  define EXIT "/images/exit.xpm"
 # endif
 
 # ifndef PATH_IMAGES_BONUS
